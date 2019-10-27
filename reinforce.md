@@ -1,3 +1,45 @@
+###### pretty woman
+be/get rid of sb or sth
+
+    this will be our last night, then you'll finally be rid of me;
+dialog:
+
+    ......
+    it wouldn't be like that.
+    what it would be?
+    well, for one thing, it would get you off the street.
+
+as ... as ...
+  
+    (1) you see the young lady over here, do you have anythings in the shop as beautiful as she is.
+    (2) I bring the stuff in and make it look as beautiful as it can look, ......
+    
+
+
+get at: to try to suggest sth without saying it directly
+  
+    ...... that's the point that I was getting at
+
+###### S01E01 
+
+yes, please don't spoil all this fun6
+you got screwed
+
+catch on: (1) to understand sth; (2) to become popular
+  
+    (1) I should've caught on when she started going to the dentist four and five times a week. 
+    (2) the haircut catch on quickly
+go through: 
+
+    My brother's going through a tough experience, how did you get through it
+
+go for: To physically attack someone with great ferocity or hostility.
+    
+    you should've gone for the head;
+    I went for watch last night;
+steer clear of (someone or sth)
+
+    The 8:00 train is always late, so steer clear of it if you want to be on time
 ###### 02 episode 01
 you are `way` too good to be with a guy like that
 the word `way` as adverb of emphasis to mean "to a great degree", for example
@@ -63,6 +105,15 @@ Ross: No, no, Carol, there is nothing wrong with it. I just don't think breast m
 
 Chandler: Of course the packaging does `appeal to` grown-ups and kids alike.
 
+
+
+###### S10E04
+
+(1) get to do: have chance to do sth
+(2) get doing: start doing sth
+
+    when they get to keep all the stuff when they buy it (Leap year)
+    we'd better get going, 
 
 
 
