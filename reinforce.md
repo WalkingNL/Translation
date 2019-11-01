@@ -49,6 +49,10 @@ not ... any more than / not ... any more ... than
 as far as ... is concerned
 
     that's because as far as my parents is concerned. Ross can do no wrong
+fit in(to) sth
+
+    well, now how dou you fit into this whole thing?
+
 
 ###### 02 episode 01
 you are `way` too good to be with a guy like that
