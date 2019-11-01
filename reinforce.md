@@ -40,6 +40,16 @@ go for: To physically attack someone with great ferocity or hostility.
 steer clear of (someone or sth)
 
     The 8:00 train is always late, so steer clear of it if you want to be on time
+    
+###### S01E02
+not ... any more than / not ... any more ... than
+
+    (1) I don't like making noises any more than you like hearing them
+    (2) I don't want to give them any more ammounition than they already have
+as far as ... is concerned
+
+    that's because as far as my parents is concerned. Ross can do no wrong
+
 ###### 02 episode 01
 you are `way` too good to be with a guy like that
 the word `way` as adverb of emphasis to mean "to a great degree", for example
