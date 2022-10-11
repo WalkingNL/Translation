@@ -13,3 +13,17 @@ Oct 13, 2019
     he fired him in charge.
     I will put you in charge.
     she is in charge.
+    
+    
+####
+Oct 11, 2022
+
+moderate
+
+inand
+
+discretionary
+
+dampen
+
+(in)adequate
