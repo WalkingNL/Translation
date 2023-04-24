@@ -27,3 +27,8 @@ discretionary
 dampen
 
 (in)adequate
+
+
+contention
+
+make sense
