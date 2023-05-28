@@ -60,15 +60,19 @@ meteoric, very fast and sudden,
 |boil up||||
 |bottle up|withhold, suppress, repress, restrain|his affection for her had been bottled up for many years.||
 |make for||||
+|make up for|`compensate for` is the similar meaning with the phrase `make up for`|the government made up for the loss of our business at this time||
 |agree on sth|在...达成一致意见|||
 |as of|is a *preposition*, represents a time or date from which sth starts or continues|as of Q1 2023, the new policy will take effect||
 |on the hunt for|actively searching for something|they always are on the hunt for the next big thing in the world of cryptocurrency||
-|on the lookout for|actively searching for something, also watchful and alert for something to happen|they're always on the hunt for the next big thing in the world of cryptocurrency||
+|on the lookout for|actively searching for something, also watchful and alert for something to happen|they're always on the lookout for the next big thing in the world of cryptocurrency||
 |you’re **in for a treat**|you are going to experience something enjoyable or exciting|I went to the Putuo island some days ago, and I am in for a treat||
 |in no small part||The BRC-20 token standard has emerged as the hottest trend in the crypto ecosystem, thanks **in no small part** to the **meteoric** rise of Pepe (PEPE) meme coin in recent months||
 |use up|consume or exhaust a supply of somthing completely|I feel so far that I have used up my all luckies in my life||
 |be bound to|something is certain or extremely likely to happen|You’re bound to forget people’s names occasionally||
 |move away from sb/sth||finally, I moved away from her control||
+|prior to|before, preceding, ahead of, earlier than, previous to|yes, I was laid off prior to preparing to find jobs||
+|account for|(1), explain or give some reasons for sth; (2), make up or comprise a certain amount or proportion of sth|I was asked to acount for the current situation where he didn't finish his tasks; the cost of this item account for about 30% of total profits||
+|factor in|means to take it into account or include it in a calculation or decision-making decision|the cost of living need to be factored in when someone is prepared to migrate in a foreign country||
 
 原句：受到银行倒闭的影响，今天的纳指出现了剧烈波动
 
@@ -102,3 +106,14 @@ for the sake of, for the benefit of
     I shoped some instruments in the supermarket for the sake of my musical dream.
 
     The company is implementing new safety measures for the benefit of its employees.
+
+
+#
+the word "yet"
+
+    The euro crisis demonstrated how economically and politically destabilizing it is when people lose faith in a currency. Despite periodic grumbling about the level of U.S. debt, the world has `yet` to turn its back on the dollar to a damaging degree.
+
+if the word "yet" in this sentence is removed, the sentence will be like this:
+
+    Despite periodic grumbling about the level of U.S. debt, the world has to turn its back on the dollar to a damaging degree.
+the meaning of the sentence is changed, the word "yet" is used to emphasize the meaning of the sentence. And the word "yet" is used to mean "until now" in this sentence. 
