@@ -117,3 +117,9 @@ if the word "yet" in this sentence is removed, the sentence will be like this:
 
     Despite periodic grumbling about the level of U.S. debt, the world has to turn its back on the dollar to a damaging degree.
 the meaning of the sentence is changed, the word "yet" is used to emphasize the meaning of the sentence. And the word "yet" is used to mean "until now" in this sentence. 
+
+# 
+### how to express "在某一年年底"
+like 在2010年年底
+- at the end of 2010 or in the end of 2010 or by the end of 2010
+- at the close of 2010 or in the close of 2010 or by the close of 2010
