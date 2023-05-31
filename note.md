@@ -69,6 +69,7 @@ meteoric, very fast and sudden,
 |in no small part||The BRC-20 token standard has emerged as the hottest trend in the crypto ecosystem, thanks **in no small part** to the **meteoric** rise of Pepe (PEPE) meme coin in recent months||
 |use up|consume or exhaust a supply of somthing completely|I feel so far that I have used up my all luckies in my life||
 |be bound to|something is certain or extremely likely to happen|You’re bound to forget people’s names occasionally||
+|be commited to sth|be devoted or dedicated to sth; be obligated or bound to do sth|the president is committed to convincing the congress issuing more debt||
 |move away from sb/sth||finally, I moved away from her control||
 |prior to|before, preceding, ahead of, earlier than, previous to|yes, I was laid off prior to preparing to find jobs||
 |account for|(1), explain or give some reasons for sth; (2), make up or comprise a certain amount or proportion of sth|I was asked to acount for the current situation where he didn't finish his tasks; the cost of this item account for about 30% of total profits||
