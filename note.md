@@ -22,13 +22,29 @@ moderate
 
 inand
 
-discretionary
+discretionary, as an adjective, refers to 
 
-dampen
+    a discretionary fund is money that can be allocated at the discretion of the person in charge.
+
+discretion, refers to the power or right to decide or act according to one's own judgement.
+
+    I have an absolutely discretion in my personal work time.
+
+discreet, as an adjective, refers to careful and prudent in one's speech or actions, especially in order to keep something confidential or to avoid embarrassment.
+
+    I am a discreet person, I don't like to talk about my personal life with others.
+
+dampen, verb, has several meanings, 1, make sth slightly web. 2, make sth less strong or intense. 3, make sb feel less excited or enthusiastic.
+
+    the news of the company's bankruptcy dampened the mood of the employees.
 
 (in)adequate
 
 devastate, ruin
+
+expenditure, noun, refers to the act of spending or using money, time, energy, etc.
+
+    I spent a great deal of time and expenditure of money on studying other languages. And also I got a lot of fun from this process. It's really helpful to reach my goal of traveling around the world.
 
 ---
 
@@ -41,7 +57,6 @@ if you take out a loan to buy a car, you might need to pay back the loan in mont
 
 refund 退款
 debate 返利
-discretion 谨慎
 
 amid = amidst, used as a preposition or adverb, to mean that in or into the middle of something
 
@@ -135,7 +150,7 @@ the House 众议院
 the Senate 参议院
 
 
-findings, earnings, 
+findings, earnings, feelings
 
 ### structure
 
@@ -151,8 +166,11 @@ Large bankers thought the legislation gave the government too much control over 
 
 However, several Congressmen, including Owen, Lindbergh, La Follette, and Murdock claimed that the New York bankers feigned their disapproval of the bill in hopes of inducing Congress to pass it. The day before the bill was passed, Murdock told Congress: 
 ```
+feign: pretend to be affected by (a feeling, state, or injury). 
 
-- in keeping with sth
+
+---
+- in keeping with sth, the meaning of this phrase is the same with the meaning of these phrase, like `in agreement with sth`, `in conformity with sth`.
 
 example:
 ```
