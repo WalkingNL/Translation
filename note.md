@@ -41,6 +41,7 @@ if you take out a loan to buy a car, you might need to pay back the loan in mont
 
 refund 退款
 debate 返利
+discretion 谨慎
 
 amid = amidst, used as a preposition or adverb, to mean that in or into the middle of something
 
@@ -74,6 +75,8 @@ meteoric, very fast and sudden,
 |prior to|before, preceding, ahead of, earlier than, previous to|yes, I was laid off prior to preparing to find jobs||
 |account for|(1), explain or give some reasons for sth; (2), make up or comprise a certain amount or proportion of sth|I was asked to acount for the current situation where he didn't finish his tasks; the cost of this item account for about 30% of total profits||
 |factor in|means to take it into account or include it in a calculation or decision-making decision|the cost of living need to be factored in when someone is prepared to migrate in a foreign country||
+|divert...from...||||
+|lay out||||
 
 原句：受到银行倒闭的影响，今天的纳指出现了剧烈波动
 
@@ -134,8 +137,35 @@ the Senate 参议院
 
 findings, earnings, 
 
+### structure
+
+- in hopes of inducing Congress to pass it
+
 ```
-Large bankers thought the legislation gave the government too much control over markets and private business dealings. The New York Times called the Act the "Oklahoma idea, the Nebraska idea" – referring to Owen and Bryan's involvement.[11]
+in hopes of doing sth + (purpose clause)
+```
+
+example:
+```
+Large bankers thought the legislation gave the government too much control over markets and private business dealings. The New York Times called the Act the "Oklahoma idea, the Nebraska idea" – referring to Owen and Bryan's involvement.
 
 However, several Congressmen, including Owen, Lindbergh, La Follette, and Murdock claimed that the New York bankers feigned their disapproval of the bill in hopes of inducing Congress to pass it. The day before the bill was passed, Murdock told Congress: 
+```
+
+- in keeping with sth
+
+example:
+```
+This was in keeping with the general plan of action he made in his First Inaugural Address on March 4, 1913
+```
+
+
+- in the wake of sth
+
+
+### complicated and abstract sentences
+
+1. this sentence below make me confused, I don't completely understand the meaning of it. So I need to learn how to understand this kind of sentences.
+```
+We shall deal with our economic system as it is and as it may be modified, not as it might be if we had a clean sheet of paper to write upon; and step-by-step we shall make it what it should be, in the spirit of those who question their own wisdom and seek counsel and knowledge, not shallow self-satisfaction or the excitement of excursions we can not tell.
 ```
