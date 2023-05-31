@@ -124,3 +124,18 @@ the meaning of the sentence is changed, the word "yet" is used to emphasize the 
 like 在2010年年底
 - at the end of 2010 or in the end of 2010 or by the end of 2010
 - at the close of 2010 or in the close of 2010 or by the close of 2010
+
+
+#
+the House 众议院
+
+the Senate 参议院
+
+
+findings, earnings, 
+
+```
+Large bankers thought the legislation gave the government too much control over markets and private business dealings. The New York Times called the Act the "Oklahoma idea, the Nebraska idea" – referring to Owen and Bryan's involvement.[11]
+
+However, several Congressmen, including Owen, Lindbergh, La Follette, and Murdock claimed that the New York bankers feigned their disapproval of the bill in hopes of inducing Congress to pass it. The day before the bill was passed, Murdock told Congress: 
+```
