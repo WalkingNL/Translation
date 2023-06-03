@@ -18,23 +18,24 @@ Oct 13, 2019
 ####
 Oct 11, 2022
 
-moderate
+moderate, 
 
-inand
 
-discretionary, as an adjective, refers to 
+`discretionary`, adjective, refers to something that is available for use as needed.
 
     a discretionary fund is money that can be allocated at the discretion of the person in charge.
-
-discretion, refers to the power or right to decide or act according to one's own judgement.
+---
+`discretion`, refers to the power or right to decide or act according to one's own judgement.
 
     I have an absolutely discretion in my personal work time.
 
-discreet, as an adjective, refers to careful and prudent in one's speech or actions, especially in order to keep something confidential or to avoid embarrassment.
+---
+`discreet`, as an adjective, refers to careful and prudent in one's speech or actions, especially in order to keep something confidential or to avoid embarrassment.
 
     I am a discreet person, I don't like to talk about my personal life with others.
 
-dampen, verb, has several meanings, 1, make sth slightly web. 2, make sth less strong or intense. 3, make sb feel less excited or enthusiastic.
+---
+`dampen`, verb, has several meanings, 1, make sth slightly wet. 2, make sth less strong or intense. 3, make sb feel less excited or enthusiastic.
 
     the news of the company's bankruptcy dampened the mood of the employees.
 
@@ -42,7 +43,7 @@ dampen, verb, has several meanings, 1, make sth slightly web. 2, make sth less s
 
 devastate, ruin
 
-expenditure, noun, refers to the act of spending or using money, time, energy, etc.
+`expenditure`, noun, refers to the act of spending or using money, time, energy, etc.
 
     I spent a great deal of time and expenditure of money on studying other languages. And also I got a lot of fun from this process. It's really helpful to reach my goal of traveling around the world.
 
@@ -58,6 +59,7 @@ if you take out a loan to buy a car, you might need to pay back the loan in mont
 refund 退款
 debate 返利
 
+### preposition
 amid = amidst, used as a preposition or adverb, to mean that in or into the middle of something
 
 meteoric, very fast and sudden, 
@@ -90,8 +92,9 @@ meteoric, very fast and sudden,
 |prior to|before, preceding, ahead of, earlier than, previous to|yes, I was laid off prior to preparing to find jobs||
 |account for|(1), explain or give some reasons for sth; (2), make up or comprise a certain amount or proportion of sth|I was asked to acount for the current situation where he didn't finish his tasks; the cost of this item account for about 30% of total profits||
 |factor in|means to take it into account or include it in a calculation or decision-making decision|the cost of living need to be factored in when someone is prepared to migrate in a foreign country||
-|divert...from...||||
-|lay out||||
+|divert...from...||I diverted the group from the original goal for another purpose||
+|lay out||they clearly laid out their rationale for developing more creative and effective team||
+|race to do sth|hurry or rush to accomplish sth in a short amount of time|||
 
 原句：受到银行倒闭的影响，今天的纳指出现了剧烈波动
 
@@ -178,8 +181,14 @@ This was in keeping with the general plan of action he made in his First Inaugur
 ```
 
 
-- in the wake of sth
+- in the wake of sth, means that an event or situation has had an significant effect or consequence on sth.
 
+example:
+```
+In the wake of unemployment, we all need to learn new skills constantly to seek new opportunities to help us make more money.
+
+In the wake of the 2008 financial crisis, the Dodd-Frank Wall Street Reform and Consumer Protection Act was passed in 2010 with the aim of preventing a similar crisis from happening again.
+```
 
 ### complicated and abstract sentences
 
@@ -187,3 +196,7 @@ This was in keeping with the general plan of action he made in his First Inaugur
 ```
 We shall deal with our economic system as it is and as it may be modified, not as it might be if we had a clean sheet of paper to write upon; and step-by-step we shall make it what it should be, in the spirit of those who question their own wisdom and seek counsel and knowledge, not shallow self-satisfaction or the excitement of excursions we can not tell.
 ```
+### the word `while`'s usage
+#### the first usage
+    The Federal Reserve Reform Act of 1977, which requires the Fed to direct its policies toward achieving maximum employment and price stability and report regularly to Congress. The act also required Senate confirmation for the chair and vice chair of the Board of Governors `while` limiting their terms to four years.
+In this passage, the meaning of the word `while` represents what is the same meaning as the phrase `at the same time as`.
