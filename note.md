@@ -39,26 +39,43 @@ moderate,
 
     the news of the company's bankruptcy dampened the mood of the employees.
 
-(in)adequate
+---
+`(in)adequate,`
 
-devastate, ruin
+---
+`devastate`, ruin
 
+---
 `expenditure`, noun, refers to the act of spending or using money, time, energy, etc.
 
     I spent a great deal of time and expenditure of money on studying other languages. And also I got a lot of fun from this process. It's really helpful to reach my goal of traveling around the world.
 
 ---
 
-contention, there was a contention in the morning meeting today
+`contention`, there was a contention in the morning meeting today
 
-installment, 分期付款
+---
+
+`installment`, 分期付款
 ```
 if you take out a loan to buy a car, you might need to pay back the loan in monthly installments over a period of several years.
 ```
-
+---
 refund 退款
+
 debate 返利
 
+subsequent 随后
+
+---
+
+prosper, proliferate
+
+> finacial boom occurred during an era of optimism, famlilies `prospered`. Automobiles, TVs, and other technoligies `proliferated` gradually.
+
+
+
+---
 ### preposition
 amid = amidst, used as a preposition or adverb, to mean that in or into the middle of something
 
@@ -93,8 +110,10 @@ meteoric, very fast and sudden,
 |account for|(1), explain or give some reasons for sth; (2), make up or comprise a certain amount or proportion of sth|I was asked to acount for the current situation where he didn't finish his tasks; the cost of this item account for about 30% of total profits||
 |factor in|means to take it into account or include it in a calculation or decision-making decision|the cost of living need to be factored in when someone is prepared to migrate in a foreign country||
 |divert...from...||I diverted the group from the original goal for another purpose||
-|lay out||they clearly laid out their rationale for developing more creative and effective team||
+|lay out||they clearly `laid out` their rationale for developing more creative and effective team||
 |race to do sth|hurry or rush to accomplish sth in a short amount of time|||
+|growing sums||ordinary men and women invested `growing sums` in stocks and bonds||
+
 
 原句：受到银行倒闭的影响，今天的纳指出现了剧烈波动
 
@@ -200,3 +219,8 @@ We shall deal with our economic system as it is and as it may be modified, not a
 #### the first usage
     The Federal Reserve Reform Act of 1977, which requires the Fed to direct its policies toward achieving maximum employment and price stability and report regularly to Congress. The act also required Senate confirmation for the chair and vice chair of the Board of Governors `while` limiting their terms to four years.
 In this passage, the meaning of the word `while` represents what is the same meaning as the phrase `at the same time as`.
+
+
+somewhat
+
+The NBER's definition emphasizes that a recession involves a significant decline in economic activity that is spread across the economy and lasts more than a few months. In our interpretation of this definition, we treat the three criteria—depth, diffusion, and duration—as somewhat interchangeable.
