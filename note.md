@@ -56,6 +56,10 @@ moderate,
 
 ---
 
+`contemplate`, 
+
+---
+
 `installment`, 分期付款
 ```
 if you take out a loan to buy a car, you might need to pay back the loan in monthly installments over a period of several years.
@@ -63,7 +67,8 @@ if you take out a loan to buy a car, you might need to pay back the loan in mont
 ---
 refund 退款
 
-debate 返利
+debate 返利，rebate?
+> The Federal Reserve Board and the leaders of the reserve banks `debated` this question
 
 subsequent 随后
 
@@ -73,7 +78,23 @@ prosper, proliferate
 
 > finacial boom occurred during an era of optimism, famlilies `prospered`. Automobiles, TVs, and other technoligies `proliferated` gradually.
 
+---
 
+inherent
+
+adherent, 
+
+---
+
+---
+
+irk, rankle, revamp, opt, soliciting
+
+[source: Microsoft, Google strategy to test AI search ads irks some brands](https://www.msn.com/en-us/money/companies/microsoft-google-strategy-to-test-ai-search-ads-irks-some-brands/ar-AA1chu5n?ocid=financepwa&cvid=24fb0346f5454214b2cec2f481f58498&ei=26)
+
+---
+
+contemplate, provision, meditate
 
 ---
 ### preposition
@@ -224,3 +245,38 @@ In this passage, the meaning of the word `while` represents what is the same mea
 somewhat
 
 The NBER's definition emphasizes that a recession involves a significant decline in economic activity that is spread across the economy and lasts more than a few months. In our interpretation of this definition, we treat the three criteria—depth, diffusion, and duration—as somewhat interchangeable.
+
+# 
+the financial euphoria 金融狂热主义
+
+--- 
+The Federal Reserve decided to act. The question was how. The Federal Reserve Board and the leaders of the reserve banks debated this question. To `rein` in the tide of `call loans`, which fueled `the financial euphoria`, the Board favored a policy of direct action. The Board asked reserve banks to deny requests for credit from member banks that loaned funds to stock speculators. The Board also warned the public of the dangers of speculation.
+
+call loans refers to the short-term loan
+
+
+#
+
+Reuters
+
+rebate
+
+euphoria
+
+unprecedented
+
+ mortgage-related 
+
+distress
+
+turbulence
+
+In response,
+
+Nonetheless
+
+conquest
+
+aftermath
+
+ephemeral
