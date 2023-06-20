@@ -97,6 +97,10 @@ irk, rankle, revamp, opt, soliciting
 contemplate, provision, meditate
 
 ---
+
+custome, custody, custodial
+
+---
 ### preposition
 amid = amidst, used as a preposition or adverb, to mean that in or into the middle of something
 
@@ -131,9 +135,12 @@ meteoric, very fast and sudden,
 |account for|(1), explain or give some reasons for sth; (2), make up or comprise a certain amount or proportion of sth|I was asked to acount for the current situation where he didn't finish his tasks; the cost of this item account for about 30% of total profits||
 |factor in|means to take it into account or include it in a calculation or decision-making decision|the cost of living need to be factored in when someone is prepared to migrate in a foreign country||
 |divert...from...||I diverted the group from the original goal for another purpose||
+|refrain from||||
 |lay out||they clearly `laid out` their rationale for developing more creative and effective team||
 |race to do sth|hurry or rush to accomplish sth in a short amount of time|||
 |growing sums||ordinary men and women invested `growing sums` in stocks and bonds||
+|all-time high||bitcoin's price is 61% off is all-time high from Nov, 2021||
+|contact|get in touch with, reach out|||
 
 
 原句：受到银行倒闭的影响，今天的纳指出现了剧烈波动
@@ -280,3 +287,100 @@ conquest
 aftermath
 
 ephemeral
+
+---
+    The housing sector led not only the financial crisis, but also the downturn in broader economic activity. Residential investment peaked in 2006, as did employment in residential construction.
+
+---
+
+    When the financial market turmoil had subsided, attention naturally turned to reforms to the financial sector and its supervision and regulation, motivated by a desire to avoid similar events in the future. 
+
+
+
+
+
+
+
+
+rise -- rose
+advance -- advanced
+roar -- roared
+increase -- increased
+add -- added
+elevate
+ascend
+
+
+decline -- declined
+decrease -- decreased
+plummet -- plummeted
+descend
+
+rig vs manipulate
+
+
+cheat vs deceptive
+
+目的，
+方式，
+原因，
+结果，
+
+
+accompany
+accomplish
+
+
+look up
+look down
+look to
+look into
+look for
+look at
+look after
+look out
+look around
+
+
+About
+Above
+Across
+After
+Against
+Along
+Among
+Around
+At
+Before
+Behind
+Below
+Beneath
+Beside
+Between
+Beyond
+By
+Down
+During
+For
+From
+In
+Inside
+Into
+Near
+Of
+Off
+On
+Onto
+Out
+Outside
+Over
+Through
+To
+Toward
+Under
+Up
+With
+Within
+Without
+
+
