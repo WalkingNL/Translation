@@ -296,7 +296,10 @@ ephemeral
     When the financial market turmoil had subsided, attention naturally turned to reforms to the financial sector and its supervision and regulation, motivated by a desire to avoid similar events in the future. 
 
 
+---
 
+    It's always advisable to consult with a financial advisor or conduct thorough research before investing in ETFs or any other financial instrument.
+advisable, thorough
 
 
 
