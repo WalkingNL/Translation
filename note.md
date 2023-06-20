@@ -98,7 +98,7 @@ contemplate, provision, meditate
 
 ---
 
-custome, custody, custodial
+custom, custody, custodial
 
 ---
 ### preposition
