@@ -48,7 +48,7 @@ moderate,
 ---
 `expenditure`, noun, refers to the act of spending or using money, time, energy, etc.
 
-    I spent a great deal of time and expenditure of money on studying other languages. And also I got a lot of fun from this process. It's really helpful to reach my goal of traveling around the world.
+   my expenditure on the new house is about 1 million dollars.
 
 ---
 
@@ -141,6 +141,19 @@ meteoric, very fast and sudden,
 |growing sums||ordinary men and women invested `growing sums` in stocks and bonds||
 |all-time high||bitcoin's price is 61% off is all-time high from Nov, 2021||
 |contact|get in touch with, reach out|||
+|at the expense of||he gets rid of his trouble at the expense of his relationship with that girl||
+|be susceptible to sth|someone or something was more affected or influenced negatively by another someone or sth|I was more susceptible to some horror events||
+|be subject to sth||||
+|be prone to sth||his immune system is valnerable, therefore, is easily prone to injection||
+|be inclined to sth||||
+|be vulnerable to sth||||
+|be liable to sth||||
+|be apt to sth||||
+|be disposed to sth||||
+|be predisposed to sth||||
+|true to their word/name|means that someone or sth is behaving or acting in a way that is consistent with the meaning or implication of their word/name|true to their word, her name reflects her identity||
+|in exchange for sth|in return for|he helped me do my homework in exchange for playing computer games with me in my home||
+
 
 
 原句：受到银行倒闭的影响，今天的纳指出现了剧烈波动
@@ -176,7 +189,9 @@ for the sake of, for the benefit of
 
     The company is implementing new safety measures for the benefit of its employees.
 
+as the name suggests
 
+    his company's name is "the moan tech", as the name suggests, it silently makes a contribution to improving the tech environment.
 #
 the word "yet"
 
@@ -323,6 +338,17 @@ rig vs manipulate
 
 
 cheat vs deceptive
+
+expenditure vs expense
+
+    expenditure, below
+    the travel expense for the conference is reimbursed by the company.
+
+encompass vs include
+
+    all the expenses for the conference are encompassed in the travel expense.
+
+
 
 目的，
 方式，
