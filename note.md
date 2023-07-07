@@ -18,13 +18,36 @@ Oct 13, 2019
 ####
 Oct 11, 2022
 
-moderate, 
+moderate, adjective, means average in amount, intensity, quality, or degree.
 
+    the moderate price of the new product is that it is affordable for most people.
+
+---
 
 `discretionary`, adjective, refers to something that is available for use as needed.
 
     a discretionary fund is money that can be allocated at the discretion of the person in charge.
 ---
+
+`discriminate`, verb, refers to the act of making a clear distinction between two things or people.
+
+    I can't discriminate between the two things.
+
+`discriminatory`, adjective, refers to the act of making a clear distinction between two things or people.
+
+    the discriminatory policy is not allowed in the company.
+
+`discrimination`, noun, refers to the act of making unfair or prejudical distinctions between two people  based on the groups, classes, or other categories to which they belong or perceived to belong, such as gender, age, sexual orientation is an everyday reality.
+
+    we should fight against the discrimination in the society.
+---
+
+`perceive`, verb, refers to the act of becoming aware of something through the senses, especially sight or hearing.
+
+    I perceive the danger of the situation.
+
+---
+
 `discretion`, refers to the power or right to decide or act according to one's own judgement.
 
     I have an absolutely discretion in my personal work time.
@@ -56,10 +79,6 @@ moderate,
 
 ---
 
-`contemplate`, 
-
----
-
 `installment`, 分期付款
 ```
 if you take out a loan to buy a car, you might need to pay back the loan in monthly installments over a period of several years.
@@ -80,12 +99,113 @@ prosper, proliferate
 
 ---
 
-inherent
+inherent, intrinsic, innate, inborn, congenital
 
-adherent, 
+inherent, adjective, refers to a quality or ability that is part of someone's character.
+
+    the inherent problem of the new policy is that it is not suitable for the current situation.
+
+intrinsic, adjective, refers to a quality or ability that is an extremely important and basic characteristic of a person or thing.
+    
+    the intrinsic value of the new policy is that it can be used in the future.
+
+innate, adjective, refers to a quality or ability that someone is born with.
+
+    the innate ability of Steve Jobs is that he can always find the best people to work with him, even though he is an extremely difficult person to work with.
+
+inborn, adjective, refers to a quality or ability that someone is born with.
+
+    the inborn ability of Steve Jobs is that he can always find the best people to work with him, even though he is an extremely difficult person to work with.
+
+congenital, adjective, refers to a trait or condition that is present at birth.
+
+    the congenital disease of the baby is that he can't see anything.
+
+
+give birth to
+
+    for example, the new policy gave birth to a new era of the company.
 
 ---
 
+adherent, adjective, refers to someone who supports a particular party, person, or set of ideas.
+
+    I am an adherent of the new policy.
+
+synonym: supporter, follower, backer
+
+---
+
+---
+
+prohibitively, prohibitively expensive
+
+explicitly, unambiguous, clear and detailed
+
+implicitly
+
+---
+chill, chill out, 
+
+---
+
+加班, work overtime, work extra hours, work extra time, work extra shifts, work extra days, work extra weeks, work extra months, work extra years, 
+
+---
+
+outperform, outperforming, outperformed
+
+outperform, verb, synonym of `surpass`, means to perform better than someone or something.
+
+    the new policy outperformed the old one.
+
+---
+
+mandatory, compulsory, obligatory
+
+mandatory, adjective, refers to something that is required by law or mandate.
+
+    the mandatory policy is that all the employees must wear masks in the office.
+
+---
+
+mandate, noun, refers to an official order or commission to do something.
+
+    the mandate of the new policy is that it can help the company to save money.
+
+---
+
+`incentive`, noun, refers to something that encourages someone to do something.
+
+    the incentive of the new policy is that it can help the company to save money.
+
+---
+
+disrupt, disruptor, disruptive 
+
+disrupt, verb, refers to the act of interrupting an event, activity, or process by causing a disturbance or problem.
+
+    the new policy disrupts the normal operation of the company.
+
+disruptive, adjective, refers to something that causes disruption.
+
+    the disruptive policy is not allowed in the company.
+
+dispute, is a disagreement or argument about something important.
+
+controversy, refers to a prolonged public disagreement or heated discussion.
+
+---
+
+minimalistic, minimalism
+
+minimalistic, adjective, refers to a style or technique that is characterized by extreme spareness and simplicity.
+
+    the minimalistic design of the new product is that it is very simple to use.
+
+minimalism, refers to a style or technique that is characterized by extreme spareness and simplicity.
+
+    the minimalism of the new policy is that it is very simple to implement.
 ---
 
 irk, rankle, revamp, opt, soliciting
@@ -96,15 +216,118 @@ irk, rankle, revamp, opt, soliciting
 
 contemplate, provision, meditate
 
+    contemplate, provision, meditate, all these words are used to mean that someone is thinking about something deeply.
+    contemplate, is used to mean that someone is thinking about something deeply, especially something that is important.
+
+        I contemplate what I really want to do in the near future recently.
+
+    meditate, implies that someone is thinking about something deeply in a spiritual or religious way.
+
+        I meditate every morning to keep my mind clear and ensure the daily tasks can be done smoothly.
+    
+    provision, is used to mean that someone is thinking about something deeply, especially something that is important, and the person is preparing for it.
+
+        I provision the plan for the next year's travel.
+
+---
+custom, custody, custodial
+
+custom, refers to a traditional and widely accepted way of behaving or doing something that is specific to a particular society, place, or time.
+
+    the custom of the Chinese people is that they will have a big dinner with their family members on the Chinese New Year's Eve.
+
+custody, refers to the legal right or duty to care for someone or something, especially a child after its parents have separated or died.
+
+    the custody of the child is given to his mother after his parents have divorced.
+
+custodial, adjective, refers to the act of relating to the care of children.
+
+    the custodial care of the child is given to his mother after his parents have divorced.
+
 ---
 
-custom, custody, custodial
+`accomplish`, synonym of `achieve`, both words are used interchangebly.
+
+---
+
+accompany, synonym of `escort`, both words are used interchangebly.
+
+    I accompany my friend to a foreign country for a trip.
+
+---
+
+exploit, utilize, leverage, use, take advantage of
+
+exploit vs. utilize
+
+    exploit is a negative word, utilize is a positive word. 
+
+---
+
+strengthen, reinforce, enhance, boost, improve
+
+---
+
+instill, vs. instigate
+
+    instill, means to gradually cause someone to have an attitude, feeling, or idea over a period of time.
+
+        I instill the idea of the importance of learning English to my son.
+
+    instigate, means to cause an event or situation to happen by making a set of actions or a formal process begin.
+
+        I instigate the process of the new project.
+
+---
+
+meteoric, very fast and sudden, like a meteor in the sky.
+
+    the meteoric drop of the BTC price in 2022 is a disaster for the crypto investors while it is a good opportunity for the new investors to enter the market.
+
+---
+
+whereby vs. thereby
+
+    whereby, refers to the way in which something happens, or the thing which makes it happen.
+
+        the new policy whereby the employees can work from home is a good news for the employees.
+    
+    whereby == by which
+
+    thereby, means as a result of a particular event or action.
+
+        the new policy is implemented, thereby the employees can work from home.
+
+---
+
+cascade, vs. cascade down
+
+    cascade, means to fall or hang in a large amount or quantity.
+
+        the new policy cascades the company.
+
+    cascade down, means to fall or hang in a large amount or quantity.
+
+        the new policy cascades down the company.
+
+---
+
+impose vs. expose
+
+    impose, means to force someone to accept something, especially a belief or way of living.
+
+        the new policy imposes the employees to work from home.
+
+    expose, means to make something visible, typically by uncovering it.
+
+        the new policy exposes the employees to work from home.
 
 ---
 ### preposition
 amid = amidst, used as a preposition or adverb, to mean that in or into the middle of something
 
-meteoric, very fast and sudden, 
+
+
 
 |phrase|meaning|to make sentence|synonyms|
 |--|--|--|--|
@@ -135,7 +358,7 @@ meteoric, very fast and sudden,
 |account for|(1), explain or give some reasons for sth; (2), make up or comprise a certain amount or proportion of sth|I was asked to acount for the current situation where he didn't finish his tasks; the cost of this item account for about 30% of total profits||
 |factor in|means to take it into account or include it in a calculation or decision-making decision|the cost of living need to be factored in when someone is prepared to migrate in a foreign country||
 |divert...from...||I diverted the group from the original goal for another purpose||
-|refrain from||||
+|refrain from|stop oneself from doing something|I refrained from telling her the truth||
 |lay out||they clearly `laid out` their rationale for developing more creative and effective team||
 |race to do sth|hurry or rush to accomplish sth in a short amount of time|||
 |growing sums||ordinary men and women invested `growing sums` in stocks and bonds||
@@ -148,12 +371,25 @@ meteoric, very fast and sudden,
 |be inclined to sth||||
 |be vulnerable to sth||||
 |be liable to sth||||
-|be apt to sth||||
-|be disposed to sth||||
-|be predisposed to sth||||
+|be apt to sth|refer to having an tendency or inclination towards a particular action or behavior|I'm always apt to forget to wear my hat frequently||
+|be disposed to sth|refer to having an tendency or inclination towards a particular action or behavior|I'm always disposed to forget to wear my hat frequently||
+|be predisposed to sth|refer to having an tendency or inclination towards a particular action or behavior|I'm always predisposed to forget to wear my hat frequently||
+|in a way that, in such a way that|leads adverbial clause of manner|for example, the government should make policies in a way that it can help the poor people||
 |true to their word/name|means that someone or sth is behaving or acting in a way that is consistent with the meaning or implication of their word/name|true to their word, her name reflects her identity||
 |in exchange for sth|in return for|he helped me do my homework in exchange for playing computer games with me in my home||
+|come across|find or meet by chance|I came across a new friend in the park||
+|choke off|stop or prevent the growth or development of sth|the government choked off the development of the new technology||
+|in accordance with|in agreement or harmony with sth|the new policy is in accordance with the current situation||
+|abide by|accept or act in accordance with sth|I abide by the new policy||
+|better off|in a better situation or condition|the economy of our country is better off than 30 years ago||
+|strengthen sb out|make sb stronger|the new policy will strengthen the company out||
+|sign off|end a message or broadcast with a signature|I signed off the email with my name||
+|blow away|impress someone greatly, or unexpectedly better. informal use: surpass or outperform significantly|the new policy blows me away||
+|first-mover advantage|the advantage gained by the initial significant occupant of a market segment|the first-mover advantage of the new policy is that it can help the company to save money||
 
+it might have been the case that
+
+    it might have been the case that the company's stock price would have been higher if the company had not been involved in the scandal.
 
 
 原句：受到银行倒闭的影响，今天的纳指出现了剧烈波动
@@ -327,6 +563,8 @@ increase -- increased
 add -- added
 elevate
 ascend
+soar
+surge
 
 
 decline -- declined
@@ -355,9 +593,6 @@ encompass vs include
 原因，
 结果，
 
-
-accompany
-accomplish
 
 
 look up
@@ -412,4 +647,23 @@ With
 Within
 Without
 
+
+#
+## Grammar
+prepositional phrase
+
+1. he ran the marathon `with great determination`
+    
+        with great determination is used to modify the verb `ran`, so it is a adverbial phrase.
+
+2. anyone can create a new pool `with a specified hook`
+
+        with a specified hook is used to modify the noun `pool`, so it is a adjectival phrase.
+
+how to distinguish the adverbial phrase and adjectival phrase? It is a little bit tricky. So the key point is to find out which word the phrase is used to modify based on the character of the phrase and the context of the sentence.
+
+### `as`
+
+e.g. why am I getting this as recommended for me today
+> `as` in this sentence is used to mean `in the role, function, or status of` something.
 
