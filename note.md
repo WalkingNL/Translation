@@ -136,13 +136,22 @@ synonym: supporter, follower, backer
 
 ---
 
+deliberate, adjective, refers to something that is done consciously and intentionally.
+
 ---
 
 prohibitively, prohibitively expensive
 
+    prohibitively, adverb, means that something is so expensive that it is impossible for most people to buy it. 
+
+prohibit, verb, means to formally forbid something by law, rule, or other authority.
+
 explicitly, unambiguous, clear and detailed
 
-implicitly
+    explicitly, adverb, means that something is stated clearly and in detail, leaving no room for confusion or doubt.
+
+implicitly, implied, not explicitly stated
+
 
 ---
 chill, chill out, 
@@ -181,6 +190,12 @@ mandate, noun, refers to an official order or commission to do something.
 
 ---
 
+`breach`, noun, refers to an act of breaking or failing to observe a law, agreement, or code of conduct.
+
+    the breach of the new policy is that it is not suitable for the current situation.
+
+---
+
 disrupt, disruptor, disruptive 
 
 disrupt, verb, refers to the act of interrupting an event, activity, or process by causing a disturbance or problem.
@@ -211,6 +226,31 @@ minimalism, refers to a style or technique that is characterized by extreme spar
 irk, rankle, revamp, opt, soliciting
 
 [source: Microsoft, Google strategy to test AI search ads irks some brands](https://www.msn.com/en-us/money/companies/microsoft-google-strategy-to-test-ai-search-ads-irks-some-brands/ar-AA1chu5n?ocid=financepwa&cvid=24fb0346f5454214b2cec2f481f58498&ei=26)
+
+opt, verb, means to make a choice from a range of possibilities.
+
+    opt-in, opt-out
+    opt-in, means to choose to do something.
+    opt-out, means to choose not to do something.s
+---
+
+reckon, reckon with, reckon on, reckon up
+
+reckon, verb, means to calculate or estimate something.
+
+    I reckon the cost of the new policy is about 1 million dollars.
+
+reckon with, means to consider or regard someone or something in a specified way.
+
+    Everyone knows Microsoft is a force to be reckoned with in the tech industry.
+
+reckon on, means to rely on someone or something.
+
+    Microsoft reckons on the ChatGPT to make a breakthrough in the AI field.
+
+reckon up, means to calculate the total of something.
+
+    the total cost of consumption every month is reckoned up by the company.
 
 ---
 
@@ -246,6 +286,16 @@ custodial, adjective, refers to the act of relating to the care of children.
 
 ---
 
+entitle, entitle to, entitle sb to sth
+
+entitle, verb, means to give someone the right to do or have something.
+
+    the new policy entitles the employees to work from home.
+
+entitle to, means to give someone the right to do or have something.
+
+---
+
 `accomplish`, synonym of `achieve`, both words are used interchangebly.
 
 ---
@@ -277,6 +327,18 @@ instill, vs. instigate
     instigate, means to cause an event or situation to happen by making a set of actions or a formal process begin.
 
         I instigate the process of the new project.
+
+---
+
+fascilitate, vs. facilitate
+
+    fascilitate, means to make an action or process possible or easier.
+
+        the new policy fascilitates the employees to work from home.
+
+    facilitate, means to make an action or process possible or easier.
+
+        the new policy facilitates the employees to work from home.
 
 ---
 
@@ -386,6 +448,15 @@ amid = amidst, used as a preposition or adverb, to mean that in or into the midd
 |sign off|end a message or broadcast with a signature|I signed off the email with my name||
 |blow away|impress someone greatly, or unexpectedly better. informal use: surpass or outperform significantly|the new policy blows me away||
 |first-mover advantage|the advantage gained by the initial significant occupant of a market segment|the first-mover advantage of the new policy is that it can help the company to save money||
+|be poised to do sth|be ready to do sth|the company is poised to launch the new policy||
+|ramp up|increase the level or amount of sth|the company ramped up the production of the new product||
+|at no point|never|at no point did I think that I would be laid offf||
+|chip away at sth|gradually make sth weaker or smaller|the stock market continuing to post gains may chip away at the foundation for crypotos||
+|add up to sth|amount to sth|the total cost of the new policy adds up to 1 million dollars||
+|be meant to do sth|be intended to do sth|the new policy is meant to help the company to save money||
+|bow out|withdraw from a situation or activity|I bowed out of the new policy||
+|roll on|is often used to express the desire or anticipation for time to pass quickly|roll on that day when I can be with you||
+|roll out|introduce a new product or service|I'm planning to roll out my next trip to Seattle||
 
 it might have been the case that
 
