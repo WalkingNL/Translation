@@ -24,6 +24,38 @@ moderate, adjective, means average in amount, intensity, quality, or degree.
 
 ---
 
+elevate, 
+
+---
+
+outrage, noun, means an extremely strong reaction of anger, shock, or indignation; verb, means to arouse fierce anger, shock, or indignation in someone.
+
+    the new policy arouses outrage among the emmployees.
+
+---
+
+nonetheless vs. nevertheless
+
+    nonetheless, means in spite of that; nevertheless, means in spite of that; however.
+
+---
+
+conceive, verb, means to form or devise a plan or idea in the mind.
+
+    I conceive the idea of the new product.
+
+perceive, verb, means to become aware or conscious of something.
+
+    I perceive the danger of the situation.
+
+---
+
+counterproductive, adj, means having the opposite of the desired effect.
+
+    the counterproductive policy is not allowed in the company.
+
+---
+
 `discretionary`, adjective, refers to something that is available for use as needed.
 
     a discretionary fund is money that can be allocated at the discretion of the person in charge.
@@ -76,6 +108,16 @@ moderate, adjective, means average in amount, intensity, quality, or degree.
 ---
 
 `contention`, there was a contention in the morning meeting today
+
+`contentment`, noun, refers to the state of being contented; satisfaction; ease of mind.
+
+    the contentment of the employees is that they can work from home.
+
+---
+
+semblance, noun, refers to the outward appearance or apparent form of something, especially when the reality is different.
+
+    the semblance of the new product is that it is very simple to use.
 
 ---
 
@@ -196,6 +238,14 @@ mandate, noun, refers to an official order or commission to do something.
 
 ---
 
+tout, verb, means to attempt to sell something, typically by pestering people in an aggressive or bold manner
+
+pestering, means to trouble or annoy someone with frequent or persistent requests or interruptions.
+
+    the new policy is touted as a breakthrough in the AI field.
+
+---
+
 disrupt, disruptor, disruptive 
 
 disrupt, verb, refers to the act of interrupting an event, activity, or process by causing a disturbance or problem.
@@ -231,7 +281,7 @@ opt, verb, means to make a choice from a range of possibilities.
 
     opt-in, opt-out
     opt-in, means to choose to do something.
-    opt-out, means to choose not to do something.s
+    opt-out, means to choose not to do something.
 ---
 
 reckon, reckon with, reckon on, reckon up
@@ -385,6 +435,41 @@ impose vs. expose
         the new policy exposes the employees to work from home.
 
 ---
+
+suppress vs. depress
+
+    suppress, means to prevent the development, action, or expression of (a feeling, impulse, idea, etc.)
+
+        the new policy suppresses the employees to work from home.
+
+    depress, means to make someone feel utterly dispirited or dejected.
+
+        the new policy depresses the employees to work from home.
+
+---
+
+inception vs. inception date
+
+    inception, means the establishment or starting point of an institution or activity.
+
+        the inception of the new policy is a good news for the employees.
+
+    inception date, means the date on which an insurance policy or other benefits becomes effective.
+
+        the inception date of the new policy is 2022-01-01.
+
+---
+
+relentless, noun, means oppressively constant; incessant.
+
+    the relentless of the new policy is a good news for the employees.
+
+---
+
+oppressively, 
+
+---
+
 ### preposition
 amid = amidst, used as a preposition or adverb, to mean that in or into the middle of something
 
@@ -450,13 +535,23 @@ amid = amidst, used as a preposition or adverb, to mean that in or into the midd
 |first-mover advantage|the advantage gained by the initial significant occupant of a market segment|the first-mover advantage of the new policy is that it can help the company to save money||
 |be poised to do sth|be ready to do sth|the company is poised to launch the new policy||
 |ramp up|increase the level or amount of sth|the company ramped up the production of the new product||
-|at no point|never|at no point did I think that I would be laid offf||
+|at no point|never|at no point did I think that I would be laid off||
 |chip away at sth|gradually make sth weaker or smaller|the stock market continuing to post gains may chip away at the foundation for crypotos||
 |add up to sth|amount to sth|the total cost of the new policy adds up to 1 million dollars||
 |be meant to do sth|be intended to do sth|the new policy is meant to help the company to save money||
 |bow out|withdraw from a situation or activity|I bowed out of the new policy||
 |roll on|is often used to express the desire or anticipation for time to pass quickly|roll on that day when I can be with you||
 |roll out|introduce a new product or service|I'm planning to roll out my next trip to Seattle||
+|knock off|stop working|I knocked off my work at 5pm||
+|knock out|make someone unconscious|the man serves knock out when being crushed with a trolley||
+|on the verge of|close to|I'm on the verge of being laid off||
+|on hold|delay or postpone|the new policy is on hold||
+|come in handy|be useful|the new policy comes in handy||
+|wind up|end up|I wind up being laid off||
+|best-in-class|the best in a particular group or category|the new policy is the best-in-class||
+|wear off|gradually disappear|the effect of the new policy wears off||
+|be up to our elbows|is often used to convey being very busy, deeply involved, or completely immersed in a task or situation|||
+
 
 it might have been the case that
 
@@ -583,6 +678,12 @@ The Federal Reserve decided to act. The question was how. The Federal Reserve Bo
 
 call loans refers to the short-term loan
 
+
+#
+
+the world is your oyster,
+
+oyster
 
 #
 
@@ -737,4 +838,41 @@ how to distinguish the adverbial phrase and adjectival phrase? It is a little bi
 
 e.g. why am I getting this as recommended for me today
 > `as` in this sentence is used to mean `in the role, function, or status of` something.
+
+#
+## financial terms
+
+year-over-year, YOY, is a method of evaluating two or more measured events to compare the results at one period with those of a comparable period on an annualized basis. YOY performance is frequently used by investors seeking to gauge whether a company's financial performance is improving or worsening.
+
+    the YOY growth of the company is 10%.
+
+    gauge, verb, means to estimate or determine the amount, level, or volume of something.
+
+
+
+
+
+# John Doe
+
+## 联系方式
+- 邮箱：johndoe@example.com
+- 电话：123-456-7890
+- 地址：123 Main St, Anywhere, USA
+
+## 教育经历
+- **BSc, Computer Science, XYZ University**, 2015-2019
+
+## 工作经验
+- **Software Developer, ABC Company**, 2019-Present
+  - Worked on several web development projects.
+  - Gained experience in Python, Java, and JavaScript.
+
+## 技能
+- **编程语言**: Python, Java, JavaScript
+- **数据库**: SQL, MongoDB
+- **工具**: Git, Docker, Jenkins
+
+## 项目经验
+- **Project 1**: Description of project 1
+- **Project 2**: Description of project 2
 
