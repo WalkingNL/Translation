@@ -141,6 +141,10 @@ prosper, proliferate
 
 ---
 
+`Contemporary`, 
+
+---
+
 inherent, intrinsic, innate, inborn, congenital
 
 inherent, adjective, refers to a quality or ability that is part of someone's character.
@@ -470,6 +474,18 @@ oppressively,
 
 ---
 
+dispose, noun, means a person's inherent qualities of mind and character.
+
+    the dispose of the new policy is a good news for the employees.
+
+---
+
+scrutiny, noun, means critical observation or examination.
+
+    the new policy is under scrutiny.
+
+---
+
 ### preposition
 amid = amidst, used as a preposition or adverb, to mean that in or into the middle of something
 
@@ -551,6 +567,7 @@ amid = amidst, used as a preposition or adverb, to mean that in or into the midd
 |best-in-class|the best in a particular group or category|the new policy is the best-in-class||
 |wear off|gradually disappear|the effect of the new policy wears off||
 |be up to our elbows|is often used to convey being very busy, deeply involved, or completely immersed in a task or situation|||
+|hit the nail on the head|to describe exactly what is causing a problem or situation, someone has found a perfect resolution for an hard problem, someone sums up perfectyl the situation|wow, it's great, you hit the nail on the head with that problem||
 
 
 it might have been the case that
