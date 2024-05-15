@@ -30,7 +30,7 @@ elevate,
 
 outrage, noun, means an extremely strong reaction of anger, shock, or indignation; verb, means to arouse fierce anger, shock, or indignation in someone.
 
-    the new policy arouses outrage among the emmployees.
+    the new policy arouses outrage among the employees.
 
 ---
 
