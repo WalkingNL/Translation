@@ -167,6 +167,7 @@ congenital, adjective, refers to a trait or condition that is present at birth.
 
     the congenital disease of the baby is that he can't see anything.
 
+---
 
 give birth to
 
@@ -484,6 +485,36 @@ scrutiny, noun, means critical observation or examination.
 
     the new policy is under scrutiny.
 
+---
+
+successively
+    synonyms: in turn
+
+    For example:
+        Three threads will successively execute this function. 依次
+        Three threads will execute this function in turn. 轮流
+
+---
+
+coherent a, coherently adv: in a logical and consistent way
+    synonyms: lucid
+
+    For example: she suffered a bortion, and then she can't walk and talk coherently.
+
+    HTTP is stateless, there is no link between two requests sharing on the same TCP connection, therefore, it has a prospect of being problematic for users attempting to interact with a certain page coherently.
+
+---
+
+mitigate v, to make less painful, serious, severe
+    synonyms: lessen, alleviate
+
+    For example: Thre had been a degree used often to mitigate what a painful people suffered
+---
+
+supersede, take the place of a person or thing previously in use
+    sysnonym: take the place of, supplant
+    Humans would be superseded by AI sooner or later
+    
 ---
 
 ### preposition
