@@ -365,7 +365,28 @@ exploit, utilize, leverage, use, take advantage of
 
 exploit vs. utilize
 
-    exploit is a negative word, utilize is a positive word. 
+    exploit is a negative word, utilize is a positive word.
+
+---
+
+fink v, 
+
+---
+
+`put forward` v
+    sysnonyms: posit
+
+---
+
+`paranoid` 
+
+---
+
+`obsessive`
+
+---
+
+stealth, sleuth, intrusive
 
 ---
 
