@@ -79,6 +79,10 @@ counterproductive, adj, means having the opposite of the desired effect.
     I perceive the danger of the situation.
 
 ---
+`codify`, v, arrange (laws) into a systematical code.
+
+    He has codified this item into the book over 10 years.
+---
 
 `discretion`, refers to the power or right to decide or act according to one's own judgement.
 
@@ -104,6 +108,12 @@ counterproductive, adj, means having the opposite of the desired effect.
 `expenditure`, noun, refers to the act of spending or using money, time, energy, etc.
 
    my expenditure on the new house is about 1 million dollars.
+
+---
+
+`axiomatic`, self-evident or unquestionable
+
+    It is axiomatic that dividends have to be financed.
 
 ---
 
