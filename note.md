@@ -117,6 +117,25 @@ counterproductive, adj, means having the opposite of the desired effect.
 
 ---
 
+`induce`, v, It is a process of reasoning from specific instances to general conclusions, it envolves making broad generalization from specific observations.
+
+    observing that all swans we have seen are white, we might induce that all swans are white.
+
+`deduce`, v, It is a process of reasoning from one or more statements (premises) to reach a logically certain conclusion, it involves applying general principles to specific cases.
+
+    if all men are mortal and Socrates is a man, then we can induce that Socrates is mortal.
+
+`incur`, v, to incur sth means to become subject to something unpleasant or unwelcome as a result of one's own behavior or actions.
+
+    1, If you drive recklessly, you may incur heavy fines.
+    2, He incured a lot of debt during his college years.
+
+`infer`, v, to infer something means to deduce or conclude information from evidence or reasoning rather than from explicit statements.
+
+    From the footprints in the sand, he infered that a dog had recently passed by.
+
+---
+
 `contention`, there was a contention in the morning meeting today
 
 `contentment`, noun, refers to the state of being contented; satisfaction; ease of mind.
