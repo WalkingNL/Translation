@@ -151,9 +151,9 @@ semblance, noun, refers to the outward appearance or apparent form of something,
 ---
 
 `installment`, 分期付款
-```
-if you take out a loan to buy a car, you might need to pay back the loan in monthly installments over a period of several years.
-```
+
+    if you take out a loan to buy a car, you might need to pay back the loan in monthly installments over a period of several years.
+
 ---
 refund 退款
 
@@ -170,8 +170,16 @@ prosper, proliferate
 
 ---
 
-`Contemporary`, 
+`Contemporary`, a. living or occuring at the same time.
 
+    this event was recorded by the contemporary historian.
+
+---
+
+contentedly, ad.
+
+    this cat sat on the mat, purring contentedly.
+    I focused on the theory of probability, thinking concentratedly.
 ---
 
 inherent, intrinsic, innate, inborn, congenital
@@ -181,7 +189,7 @@ inherent, adjective, refers to a quality or ability that is part of someone's ch
     the inherent problem of the new policy is that it is not suitable for the current situation.
 
 intrinsic, adjective, refers to a quality or ability that is an extremely important and basic characteristic of a person or thing.
-    
+
     the intrinsic value of the new policy is that it can be used in the future.
 
 innate, adjective, refers to a quality or ability that someone is born with.
@@ -228,13 +236,12 @@ explicitly, unambiguous, clear and detailed
 
 implicitly, implied, not explicitly stated
 
-
 ---
 chill, chill out, 
 
 ---
 
-加班, work overtime, work extra hours, work extra time, work extra shifts, work extra days, work extra weeks, work extra months, work extra years, 
+加班, work overtime, work extra hours, work extra time, work extra shifts, work extra days, work extra weeks, work extra months, work extra years.
 
 ---
 
@@ -562,21 +569,25 @@ mitigate v, to make less painful, serious, severe
 ---
 
 supersede, take the place of a person or thing previously in use
+
     sysnonym: take the place of, supplant
     Humans would be superseded by AI sooner or later
-    
+---
+
+**over**, can be used as comparison where one side has better condition or position than another side compared.
+
+    I have an advantage over them who don't have enough time.
 ---
 
 ### preposition
+
 amid = amidst, used as a preposition or adverb, to mean that in or into the middle of something
-
-
-
 
 |phrase|meaning|to make sentence|synonyms|
 |--|--|--|--|
 |in place|to mean established or set up. **It was often used to describle sth that was ready to be used or implemented**|I proposed a solution in place to deal with it|set up, established|
 |make sense|it was also used to describe sth that is clear and easy to comprehend|this description about the thing makes sense to me|logical, understandable|
+|compared to||they had an available **over (compared to)** other travllers who had come before them|over, than|
 |as compared to||the cost of living in Xi'an is very lower as compared to other south cities||
 |as opposed to|in contrast to, rather than|I like to use UDP protocol as opposed to TCP||
 |on behalf of|representing or act for someone else, as a representative of, in the interest of|||
@@ -660,16 +671,13 @@ it might have been the case that
 
 翻译：due to the **impact** of **the SVB failure**, the NasDaq experienced **significant volatility** today.
 
+    ```
+    The groundbreaking development started via the Ordinals protocol sent ripples across the Crypto community, and its impact was felt in the value of Bitcoin, which experienced a surge in the first quarter of 2023. 
+    ```
 
-
-```
-The groundbreaking development started via the Ordinals protocol sent ripples across the Crypto community, and its impact was felt in the value of Bitcoin, which experienced a surge in the first quarter of 2023. 
-```
 这项开创性的发展始于序数协议，它在加密社区引起了轰动，其影响在比特币的价值上得到了体现，比特币在2023年第一季度经历了一次激增
 
-
-**Equality** means to treat people equally, regardless of their desire or needs. But **fairness** means treating people according to what they deserve and need. 
-
+**Equality** means to treat people equally, regardless of their desire or needs. But **fairness** means treating people according to what they deserve and need.
 
 on behalf of
 
@@ -683,7 +691,7 @@ in the interest of
 
     I'm here in the interest of my clients
 
-for the sake of, for the benefit of 
+for the sake of, for the benefit of
 
     I shoped some instruments in the supermarket for the sake of my musical dream.
 
@@ -692,7 +700,7 @@ for the sake of, for the benefit of
 as the name suggests
 
     his company's name is "the moan tech", as the name suggests, it silently makes a contribution to improving the tech environment.
-#
+---
 the word "yet"
 
     The euro crisis demonstrated how economically and politically destabilizing it is when people lose faith in a currency. Despite periodic grumbling about the level of U.S. debt, the world has `yet` to turn its back on the dollar to a damaging degree.
@@ -713,7 +721,6 @@ like 在2010年年底
 the House 众议院
 
 the Senate 参议院
-
 
 findings, earnings, feelings
 
@@ -738,26 +745,28 @@ feign: pretend to be affected by (a feeling, state, or injury).
 - in keeping with sth, the meaning of this phrase is the same with the meaning of these phrase, like `in agreement with sth`, `in conformity with sth`.
 
 example:
-```
-This was in keeping with the general plan of action he made in his First Inaugural Address on March 4, 1913
-```
 
+    ```
+    This was in keeping with the general plan of action he made in his First Inaugural Address on March 4, 1913
+    ```
 
 - in the wake of sth, means that an event or situation has had an significant effect or consequence on sth.
 
 example:
-```
-In the wake of unemployment, we all need to learn new skills constantly to seek new opportunities to help us make more money.
 
-In the wake of the 2008 financial crisis, the Dodd-Frank Wall Street Reform and Consumer Protection Act was passed in 2010 with the aim of preventing a similar crisis from happening again.
-```
+    ```
+    In the wake of unemployment, we all need to learn new skills constantly to seek new opportunities to help us make more money.
+
+    In the wake of the 2008 financial crisis, the Dodd-Frank Wall Street Reform and Consumer Protection Act was passed in 2010 with the aim of preventing a similar crisis from happening again.
+    ```
 
 ### complicated and abstract sentences
 
 1. this sentence below make me confused, I don't completely understand the meaning of it. So I need to learn how to understand this kind of sentences.
-```
-We shall deal with our economic system as it is and as it may be modified, not as it might be if we had a clean sheet of paper to write upon; and step-by-step we shall make it what it should be, in the spirit of those who question their own wisdom and seek counsel and knowledge, not shallow self-satisfaction or the excitement of excursions we can not tell.
-```
+
+    ```
+    We shall deal with our economic system as it is and as it may be modified, not as it might be if we had a clean sheet of paper to write upon; and step-by-step we shall make it what it should be, in the spirit of those who question their own wisdom and seek counsel and knowledge, not shallow self-satisfaction or the excitement of excursions we can not tell.
+    ```
 ### the word `while`'s usage
 #### the first usage
     The Federal Reserve Reform Act of 1977, which requires the Fed to direct its policies toward achieving maximum employment and price stability and report regularly to Congress. The act also required Senate confirmation for the chair and vice chair of the Board of Governors `while` limiting their terms to four years.
@@ -822,10 +831,6 @@ ephemeral
     It's always advisable to consult with a financial advisor or conduct thorough research before investing in ETFs or any other financial instrument.
 advisable, thorough
 
-
-
-
-
 rise -- rose
 advance -- advanced
 roar -- roared
@@ -836,14 +841,12 @@ ascend
 soar
 surge
 
-
 decline -- declined
 decrease -- decreased
 plummet -- plummeted
 descend
 
 rig vs manipulate
-
 
 cheat vs deceptive
 
@@ -856,74 +859,117 @@ encompass vs include
 
     all the expenses for the conference are encompassed in the travel expense.
 
-
-
 目的，
 方式，
 原因，
 结果，
 
-
-
 look up
+
 look down
+
 look to
+
 look into
+
 look for
+
 look at
+
 look after
+
 look out
+
 look around
 
-
 About
+
 Above
+
 Across
+
 After
+
 Against
+
 Along
+
 Among
+
 Around
+
 At
+
 Before
+
 Behind
+
 Below
+
 Beneath
+
 Beside
+
 Between
+
 Beyond
+
 By
+
 Down
+
 During
+
 For
+
 From
+
 In
+
 Inside
+
 Into
+
 Near
+
 Of
+
 Off
+
 On
+
 Onto
+
 Out
+
 Outside
+
 Over
+
 Through
+
 To
+
 Toward
+
 Under
+
 Up
+
 With
+
 Within
+
 Without
 
+---
 
-#
 ## Grammar
+
 prepositional phrase
 
 1. he ran the marathon `with great determination`
-    
+
         with great determination is used to modify the verb `ran`, so it is a adverbial phrase.
 
 2. anyone can create a new pool `with a specified hook`
@@ -937,7 +983,8 @@ how to distinguish the adverbial phrase and adjectival phrase? It is a little bi
 e.g. why am I getting this as recommended for me today
 > `as` in this sentence is used to mean `in the role, function, or status of` something.
 
-#
+---
+
 ## financial terms
 
 year-over-year, YOY, is a method of evaluating two or more measured events to compare the results at one period with those of a comparable period on an annualized basis. YOY performance is frequently used by investors seeking to gauge whether a company's financial performance is improving or worsening.
@@ -946,9 +993,42 @@ year-over-year, YOY, is a method of evaluating two or more measured events to co
 
     gauge, verb, means to estimate or determine the amount, level, or volume of something.
 
+## sentence pattern
 
+### using participle phrase
 
+#### participle phrase
 
+These are phrases that begin with a participle and modify the subject of the sentence to provide more details about the action or state. They can be used to add context, clarify how an action is performed, or describe the condition of the subject during the action.
+
+These phrases typically consist of a present participle (ending in -ing) or a past participle (often ending in -ed, -en, -d, -t, -n, or -ne) that modifies the main subject of the sentence and adds additional information about the subject’s action or state.
+
+Here are several examples using the sentence pattern where the main subject is modified by a phrase describing the state or condition in which the subject performs an action. This structure often uses participle phrases (like "dressed in") to add more information about the subject’s appearance or state during the action:
+
+1. **The cat sat on the mat, purring contentedly.**
+   - Here, "purring contentedly" modifies "the cat," describing what the cat is doing while sitting on the mat.
+
+2. **The children ran into the room, laughing loudly.**
+   - "Laughing loudly" modifies "the children," describing how they were behaving as they ran into the room.
+
+3. **She entered the party, dressed in a stunning red gown.**
+   - "Dressed in a stunning red gown" modifies "she," indicating how she was dressed as she entered the party.
+
+4. **The teacher stood at the front, arms crossed.**
+   - "Arms crossed" modifies "the teacher," describing his posture as he stood at the front.
+
+5. **He waited at the bus stop, shivering in the cold.**
+   - "Shivering in the cold" modifies "he," describing his physical state as he waited at the bus stop.
+
+6. **The dog lay on the porch, soaked from the rain.**
+   - "Soaked from the rain" modifies "the dog," explaining the dog's condition as it lay on the porch.
+
+7. **The students completed the test, visibly relieved.**
+   - "Visibly relieved" modifies "the students," describing their emotional state as they completed the test.
+
+These examples illustrate how participle phrases and other descriptive elements can be used to provide additional detail about the subject’s state or action in a sentence.
+
+---
 
 # John Doe
 
