@@ -578,6 +578,26 @@ supersede, take the place of a person or thing previously in use
 
     I have an advantage over them who don't have enough time.
 ---
+**Substantial** is an adjective that describes something as being of considerable importance, size, or worth. It can also mean something that is real and tangible or solid in form.
+
+1. **Large in size or amount**: 
+   - "She received a substantial raise after her promotion." 
+   - Here, "substantial" means the raise was significant or considerable.
+
+2. **Solid or strong**: 
+   - "The house was built on a substantial foundation."
+   - In this context, "substantial" means the foundation is solid and strong.
+
+3. **Important or significant**:
+   - "He made a substantial contribution to the project."
+   - Here, "substantial" means the contribution was important or meaningful.
+
+4. **Real and tangible**:
+   - "They had substantial evidence to support their claims."
+   - In this case, "substantial" implies that the evidence was real and convincing.
+
+The word "substantial" is often used to emphasize the importance, size, or reality of something.
+---
 
 ### preposition
 
