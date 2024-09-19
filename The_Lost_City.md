@@ -35,10 +35,10 @@ One question that has perplexed visitors, historians and archaeologists alike ev
 宾厄姆在他的书中以生动的风格描写了这段经历。首先，当他爬上山时，他描述了致命毒蛇的潜在威胁，这些蛇“能够在追捕猎物时跳跃很远”；尽管他并没有看到任何蛇。然后，他感到越来越多的发现感，先是看到大片的梯田，接着是一个陵墓，随后是宏伟的阶梯，最后是马丘比丘的盛大礼仪建筑。“这似乎像一个难以置信的梦境……这一景象让我如痴如醉……”他写道。
 
 **E**
-然而，我们应该记住，**《印加帝国的失落之城》**是一部后见之明的作品，直到1948年才写成，那已经是他探险多年之后的事了。他当时的日记记录显示了他对这一成就的认识是逐渐加深的。他在遗址上度过了一个下午，记录下了一些建筑的尺寸，然后下山重新与他的同伴会合，似乎并没有对他们谈论太多他的发现。在这个阶段，宾厄姆并没有意识到遗址的规模或重要性，也没有意识到他能如何利用这一发现。
+然而，我们应该记住，《**印加帝国的失落之城**》是一部后见之明的作品，直到1948年才写成，那已经是他探险多年之后的事了。他当时的日记记录显示了他对这一成就的认识是逐渐加深的。他在遗址上度过了一个下午，记录下了一些建筑的尺寸，然后下山重新与他的同伴会合，似乎并没有对他们谈论太多他的发现。在这个阶段，宾厄姆并没有意识到遗址的规模或重要性，也没有意识到他能如何利用这一发现。
 
 **F**
-然而，回国不久后，他意识到自己可以通过这一发现扬名立万。当他为**《国家地理杂志》**撰写文章并于1913年4月向全世界公布这一消息时，他知道自己必须提出一个重要的想法。他想知道这是否可能是第一位印加帝王曼科大帝的诞生地，以及这是否可能是史书记载的“印加人的最后一座城市”。这个词指的是维尔卡班巴，这是1530年代印加人逃离西班牙入侵者的定居点。宾厄姆近40年来拼命地想要证明这一信念。可惜的是，他认为这个遗址既是印加文明的开端也是终点，尽管这个想法很宏伟，但却是不准确的。我们现在知道，维尔卡班巴实际上位于丛林深处，距离这里有65公里。
+然而，回国不久后，他意识到自己可以通过这一发现扬名立万。当他为《**国家地理杂志**》撰写文章并于1913年4月向全世界公布这一消息时，他知道自己必须提出一个重要的想法。他想知道这是否可能是第一位印加帝王曼科大帝的诞生地，以及这是否可能是史书记载的“印加人的最后一座城市”。这个词指的是维尔卡班巴，这是1530年代印加人逃离西班牙入侵者的定居点。宾厄姆近40年来拼命地想要证明这一信念。可惜的是，他认为这个遗址既是印加文明的开端也是终点，尽管这个想法很宏伟，但却是不准确的。我们现在知道，维尔卡班巴实际上位于丛林深处，距离这里有65公里。
 
 **G**
 自从宾厄姆以来，一个困扰游客、历史学家和考古学家的问题是，为什么这个遗址似乎在西班牙征服之前就被废弃了。西班牙编年史中没有任何对它的提及——如果他们知道如此靠近库斯科的地方存在这个遗址，他们肯定会为了寻找黄金而来。过去几年间，一种广泛接受的观点是，马丘比丘是一座*莫亚*（moya），一座由印加皇帝建造的乡村庄园，用来避开库斯科的寒冷冬季，在这里，精英阶层可以享受宏伟的建筑和壮丽的景色。此外，马丘比丘的特殊建筑风格表明，它建造于所有印加皇帝中最伟大的帕查库特（约1438-71年）时期。按照惯例，帕查库特的后裔为自己建造了其他类似的庄园，因此在他去世后，马丘比丘大约在西班牙征服之前50年就被废弃了。
@@ -55,3 +55,23 @@ In the sentence "When he came to write the National Geographic magazine article 
 - **"Broke"** in this sentence refers to the action of publicizing or disseminating the news on a large scale.
 
 So, the sentence is saying that the National Geographic article was the first to inform the world about the story in April 1913.
+
+---
+### words and phrases
+**monumental**
+
+**perplex**, vt.
+
+**alike**, 
+
+**chronicler**, n.
+
+**in search of**
+
+**architecture**, n.
+
+**spectacular**, adj. 
+
+**estate**
+
+    Daming Palace built in the period of the emporer TangGaozong, there were a lot of halls at that time in it, and his descendents also constructed another monumental archtectures, which made its 面积 of it time origin. But its name had perplexed me for a few years, I don't know why its name is called Daming until I read the history book of the Tang dynasty, as a mirror belonging to Han dynasty had been found at when the palace had been building.

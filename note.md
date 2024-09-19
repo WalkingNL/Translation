@@ -123,7 +123,7 @@ counterproductive, adj, means having the opposite of the desired effect.
 
 `deduce`, v, It is a process of reasoning from one or more statements (premises) to reach a logically certain conclusion, it involves applying general principles to specific cases.
 
-    if all men are mortal and Socrates is a man, then we can induce that Socrates is mortal.
+    if all men are mortal and Socrates is a man, then we can `deduce` that Socrates is mortal.
 
 `incur`, v, to incur sth means to become subject to something unpleasant or unwelcome as a result of one's own behavior or actions.
 
@@ -616,6 +616,7 @@ amid = amidst, used as a preposition or adverb, to mean that in or into the midd
 |belly up|used to describle when banks or brokerages go bankrupt|||
 |end up with/doing||||
 |boil up||||
+|boil down||||
 |bottle up|withhold, suppress, repress, restrain|his affection for her had been bottled up for many years.||
 |make for||||
 |make up for|`compensate for` is the similar meaning with the phrase `make up for`|the government made up for the loss of our business at this time||
@@ -679,8 +680,8 @@ amid = amidst, used as a preposition or adverb, to mean that in or into the midd
 |best-in-class|the best in a particular group or category|the new policy is the best-in-class||
 |wear off|gradually disappear|the effect of the new policy wears off||
 |be up to our elbows|is often used to convey being very busy, deeply involved, or completely immersed in a task or situation|||
-|hit the nail on the head|to describe exactly what is causing a problem or situation, someone has found a perfect resolution for an hard problem, someone sums up perfectyl the situation|wow, it's great, you hit the nail on the head with that problem||
-
+|hit the nail on the head|to describe exactly what is causing a problem or situation, someone has found a perfect resolution for an hard problem, someone sums up perfectly the situation|wow, it's great, you hit the nail on the head with that problem||
+|stand out|project from a surface; be easily noticeable; be clearly better or more significant than someone or something|his performance was able to stand out, because he spent a lot of time on it in the past||
 
 it might have been the case that
 
