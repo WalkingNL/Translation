@@ -127,8 +127,7 @@ contempt a. the feeling that a person or thing is beneath consideration, worthle
 
     synonyms: disdain, scorn, disrespect, disapproval, dislike.
 
-    I shot a look full of contempt at him.
-    
+    I shot a look full of contempt at him. 
 
 ---
 
