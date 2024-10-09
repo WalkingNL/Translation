@@ -117,6 +117,21 @@ counterproductive, adj, means having the opposite of the desired effect.
 
 ---
 
+pejorative n. a word expressing contentment or disapproval
+
+    what you just said about the current China was full of pejorative.
+
+---
+
+contempt a. the feeling that a person or thing is beneath consideration, worthless, or deserving scorn.
+
+    synonyms: disdain, scorn, disrespect, disapproval, dislike.
+
+    I shot a look full of contempt at him.
+    
+
+---
+
 `induce`, v, It is a process of reasoning from specific instances to general conclusions, it envolves making broad generalization from specific observations.
 
     observing that all swans we have seen are white, we might induce that all swans are white.
@@ -140,7 +155,7 @@ counterproductive, adj, means having the opposite of the desired effect.
 
 `contentment`, noun, refers to the state of being contented; satisfaction; ease of mind.
 
-    the contentment of the employees is that they can work from home.
+    the contentment of the employees is that they can work at home.
 
 ---
 
@@ -218,9 +233,43 @@ adherent, adjective, refers to someone who supports a particular party, person, 
 
 synonym: supporter, follower, backer
 
+**"Adhere to"** and **"cling to"** both involve a sense of attachment or following, but they differ in meaning, tone, and context. Here's a breakdown:
+
+### 1. **Adhere to**
+   - **Meaning**: To stick firmly to a rule, belief, or standard. It is often used in a formal or professional context to describe following rules, principles, or guidelines.
+   - **Tone**: Neutral and formal.
+   - **Usage**: Typically used to refer to following or complying with rules, regulations, or values.
+   - **Examples**:
+     - "You must **adhere to** the company’s policies."
+     - "The team **adhered to** the project guidelines strictly."
+   - **Key Idea**: It implies a sense of commitment to something, especially rules or principles, without any emotional connotation.
+
+### 2. **Cling to**
+   - **Meaning**: To hold on tightly to something, often out of desperation, fear, or a strong emotional attachment. It can be used literally (physically holding on) or figuratively (holding on to beliefs, habits, or emotions).
+   - **Tone**: Can be neutral, but often has emotional or negative connotations, implying resistance to change or fear of losing something.
+   - **Usage**: Often used to describe an emotional attachment or a reluctance to let go of something (ideas, beliefs, people, etc.).
+   - **Examples**:
+     - "He **clung to** his outdated beliefs despite the new evidence."
+     - "In the storm, the sailors **clung to** the boat for dear life."
+   - **Key Idea**: It suggests a strong emotional attachment or a reluctance to change, often with a sense of desperation.
+
+### Key Differences:
+- **"Adhere to"** is more formal and typically refers to following rules or guidelines, with no emotional attachment.
+- **"Cling to"** often involves strong emotions or desperation and suggests holding on tightly, sometimes even to outdated or irrelevant things.
+
+### Summary:
+- Use **"adhere to"** when talking about following rules, guidelines, or principles in a neutral or formal context.
+- Use **"cling to"** when talking about holding on to something, often with emotion or resistance to change.
+
 ---
 
-deliberate, adjective, refers to something that is done consciously and intentionally.
+attachment, n.
+
+    this pic file will be attached to a email sent to you.
+
+    the txt file will be as a sense of attachment you'll receive.
+
+    I felt a sense of deep attachment to my birthplace.
 
 ---
 
@@ -543,6 +592,54 @@ scrutiny, noun, means critical observation or examination.
     the new policy is under scrutiny.
 
 ---
+literally, figuratively
+
+`literally` refers to that which is exactly and precisely true as spoken or as written. to describe something that really happened.
+
+`figuratively` means that whatever is spoken of or written of is an analogy, a comparison, or an allusion. to describe something metaphorically.
+
+    figuratively saying, "I'm drowning in work means" I have a lot of work to do, not that I'm literally underwater.
+
+---
+
+desperation vs despair
+
+    desperation n. 
+
+        “desperation” is typically used to describe a state of extreme urgency or hopelessness. It can also be used to describe a feeling of intense desire or need.
+
+        I accept her proposals out of desperation, even though I know it's not good fit.
+
+    desperate a.
+    desperately ad.
+
+    despair n, v.
+
+        n, to describe a sense of hopelessness or loss of faith in something
+        v, to describe an act of losing faith or giving up
+
+        example: I felt into a deep despair when I broke up with my first girl friend five years ago.
+
+---
+
+deliberate a, v. adjective, refers to something that is done consciously and intentionally.
+
+    a, fully considered, not impulsive.
+
+    v, engage in long and careful consideration.
+
+---
+
+`irrelevant` a, not connected with or relevant to something.
+
+   it is a completely `irrelevant` comment.
+
+---
+
+`connotation`, an idea or feeling that a word invokes in addition to its literal or primary meaning
+
+    it's an obvious connotation from his speaking
+---
 
 successively
     synonyms: in turn
@@ -566,6 +663,16 @@ mitigate v, to make less painful, serious, severe
     synonyms: lessen, alleviate
 
     For example: Thre had been a degree used often to mitigate what a painful people suffered
+---
+
+retain, v. it means to keep or maintain sth that has already been owned or obtained.
+
+    you should retain your current job
+
+attain, v. it means to obtain or reach or achieve your goal or accomplishment.
+
+    attaining my goal of becoming an excellent hacker is a long-term task.
+
 ---
 
 supersede, take the place of a person or thing previously in use
@@ -823,7 +930,7 @@ euphoria
 
 unprecedented
 
- mortgage-related 
+mortgage-related 
 
 distress
 
@@ -985,6 +1092,24 @@ Without
 
 ---
 
+space, time, flat, dot
+
+across + 单数
+across this river
+
+across + 复数
+across five years
+
+across + a country/city/office
+
+across from
+across from sb/sth
+
+come across
+get across
+
+---
+
 ## Grammar
 
 prepositional phrase
@@ -1048,6 +1173,21 @@ Here are several examples using the sentence pattern where the main subject is m
    - "Visibly relieved" modifies "the students," describing their emotional state as they completed the test.
 
 These examples illustrate how participle phrases and other descriptive elements can be used to provide additional detail about the subject’s state or action in a sentence.
+
+---
+
+Grammarly gets in my way or is difficult to use.
+
+---
+
+In the sentence **"Gensler was featured on CNBC"**, the word **"featured"** can be synonymously replaced with words like:
+
+- **"appeared"**: *"Gensler appeared on CNBC."*
+- **"interviewed"** (if he was specifically interviewed): *"Gensler was interviewed on CNBC."*
+- **"highlighted"** (if the emphasis was on him): *"Gensler was highlighted on CNBC."*
+- **"showcased"** (if it was a prominent appearance): *"Gensler was showcased on CNBC."*
+
+Each of these alternatives can be used depending on the context and emphasis you want to convey. **"Appeared"** is the most neutral and direct synonym.
 
 ---
 
