@@ -117,13 +117,13 @@ counterproductive, adj, means having the opposite of the desired effect.
 
 ---
 
-pejorative n. a word expressing contentment or disapproval
+`pejorative` n. a word expressing contentment or disapproval
 
     what you just said about the current China was full of pejorative.
 
 ---
 
-contempt a. the feeling that a person or thing is beneath consideration, worthless, or deserving scorn.
+`contempt` a. the feeling that a person or thing is beneath consideration, worthless, or deserving scorn.
 
     synonyms: disdain, scorn, disrespect, disapproval, dislike.
 
@@ -607,7 +607,7 @@ desperation vs despair
 
         “desperation” is typically used to describe a state of extreme urgency or hopelessness. It can also be used to describe a feeling of intense desire or need.
 
-        I accept her proposals out of desperation, even though I know it's not good fit.
+        example: I accept her proposals out of desperation, even though I know it's not good fit.
 
     desperate a.
     desperately ad.
@@ -678,6 +678,7 @@ supersede, take the place of a person or thing previously in use
 
     sysnonym: take the place of, supplant
     Humans would be superseded by AI sooner or later
+
 ---
 
 **over**, can be used as comparison where one side has better condition or position than another side compared.
@@ -1214,3 +1215,28 @@ Each of these alternatives can be used depending on the context and emphasis you
 - **Project 1**: Description of project 1
 - **Project 2**: Description of project 2
 
+---
+
+## the special area of ChatGPT 
+
+### Enrolled In
+- **Usage**: "Enrolled in" is used when referring to being registered or participating in a specific course or program.
+- **Context**: It is commonly used for classes, universities, or specific educational programs.
+- **Example**: "She is enrolled in a Bachelor’s degree program at the university."
+
+### Enrolled On
+- **Usage**: "Enrolled on" is less commonly used in American English but can sometimes be seen in British English with a similar meaning to "enrolled in."
+- **Context**: It may be used interchangeably with "enrolled in" in some regions for courses and educational programs.
+- **Example**: "He was enrolled on the new training course offered by the institute."
+
+### Enrolled At
+- **Usage**: "Enrolled at" is generally used when referring to the institution or location where one is registered.
+- **Context**: It’s less about the specific program and more about the place.
+- **Example**: "They are enrolled at Harvard University."
+
+### Summary
+- **Enrolled in** focuses on the program or course.
+- **Enrolled on** can be used similarly to "enrolled in," especially in British contexts, indicating participation in a course or program.
+- **Enrolled at** emphasizes the institution rather than the specific program or course.
+
+Choosing the right preposition depends on what aspect you wish to emphasize—whether it's the program itself, the institution, or the course. These distinctions can help ensure clarity and precision in academic and professional contexts.
