@@ -96,6 +96,12 @@ intersection: 十字路口
 
 crossroads: 交叉路口
 
+roundabout: 环形交叉路口
+
+hard turn: 急转弯
+
+winding: 连续转弯
+
 ---
 
 [找回遗失物品](https://vm.tiktok.com/ZGdFRQkjq/)
@@ -143,6 +149,32 @@ Customer: yes, please. Also, is breakfast included in my reservation? 还有，�
 Hotel: It is. Breakfast is served from 7 am to 10 am in the dining area on the first floor.
 
 Customer: Thanks a lot.
+
+---
+
+[生活中的一些响声](https://vm.tiktok.com/ZGdjY4exA/)
+
+A: your alarm is going off(闹钟的响声). It's so loud.
+
+B: Okay, I turned it off.
+
+A: your phone is ringing(电话的响声).
+
+B: Oh, sorry. I put it on vibrate.
+
+A: The smoke detector is chirping(啾啾响).
+
+B: The battery is low.
+
+A: Could you stop clattering(哗哗响) the dishes?
+
+B: Oh, sorry. I'll be quieter.
+
+A: The sensor is beeping(哔哔响).
+
+A: Would you stop banging(砰砰响) on the cupboard.
+
+go off
 
 ---
 
