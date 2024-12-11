@@ -1240,3 +1240,11 @@ Each of these alternatives can be used depending on the context and emphasis you
 - **Enrolled at** emphasizes the institution rather than the specific program or course.
 
 Choosing the right preposition depends on what aspect you wish to emphasize—whether it's the program itself, the institution, or the course. These distinctions can help ensure clarity and precision in academic and professional contexts.
+
+
+#
+
+civil litigation, 民事诉讼
+defendant, 被告
+plaintiff, 原告
+`a course of law` or `course`, 法庭
