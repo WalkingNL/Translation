@@ -1274,6 +1274,8 @@ denominate
 
 the ability to impose penalties on and take enforcement actions against offenders, including bringing legal action when needed.
 
+as much (...) as ...
+
 ---
 
 **Enforce** and **force** are related terms but differ significantly in meaning, usage, and context. Here’s a breakdown of the differences:
