@@ -1245,6 +1245,70 @@ Choosing the right preposition depends on what aspect you wish to emphasize—wh
 #
 
 civil litigation, 民事诉讼
+
 defendant, 被告
+
 plaintiff, 原告
+
+grievance n, 不平，牢骚，怨气。
+
+    unfairness
+    injustice
+    discontent
+    complaint
+
+redress n, remedy or compensation for a wrong or grievance. v, remedy or set right (an undesirable or unfair situation). 纠正，平反昭雪。
+
+prosecute v, 起诉
+
+    sue
+    bring a lawsuit
+
 `a course of law` or `course`, 法庭
+
+---
+
+implicate
+
+denominate
+
+the ability to impose penalties on and take enforcement actions against offenders, including bringing legal action when needed.
+
+---
+
+**Enforce** and **force** are related terms but differ significantly in meaning, usage, and context. Here’s a breakdown of the differences:
+
+1. Enforce
+   - Meaning: To ensure that laws, rules, or agreements are followed or carried out.
+   - Tone: Often associated with authority, regulations, or maintaining order.
+   - Usage: Used when referring to the application or implementation of rules, laws, or policies.
+	
+    Examples:
+
+   - “The police are responsible for enforcing the law.”
+   - “The teacher had to enforce the classroom rules to maintain discipline.”
+   - Key Idea: It implies ensuring compliance with something already established, like rules or laws, without necessarily using physical coercion.
+
+2. Force
+   - Meaning: To make someone do something against their will, often through physical power, threats, or pressure.
+   - Tone: Can imply coercion, pressure, or violence, depending on the context.
+   - Usage: Used when referring to compelling actions, exerting physical power, or applying pressure.
+
+    Examples:
+
+   - “They tried to force him to sign the agreement.”
+   - “The storm forced us to cancel the trip.”
+   - Key Idea: It involves applying pressure, power, or coercion to achieve an outcome.
+
+**Key Differences:**
+
+|Aspect|Enforce|Force|
+|--|--|--|
+|**Definition**|Ensure compliance with rules or laws|Compel someone to act through pressure or power|
+|**Connotation**|Formal, authoritative|Can imply coercion, pressure, or violence|
+|**Context**|Laws, rules, agreements|Physical actions, decisions, or situations|
+|**Examples**|“Enforce a curfew”|“Force someone to comply”|
+
+**Summary:**
+   - Use `enforce` when talking about applying or upholding laws, rules, or policies (without necessarily involving coercion).
+   - Use `force` when referring to compelling actions through pressure, power, or coercion (sometimes involving resistance).
