@@ -681,6 +681,24 @@ supersede, take the place of a person or thing previously in use
 
 ---
 
+object vs. objective
+
+object, n, a.
+
+- noun, it refers to things (physical or conceptual).
+- verb, it means to disagree or protest.
+
+objective, n, a.
+
+- As a noun, it refers to a goal or target.
+- As an adjective, it describes something neutral or fact-based.
+
+---
+
+explicit vs. implicit
+
+---
+
 **over**, can be used as comparison where one side has better condition or position than another side compared.
 
     I have an advantage over them who don't have enough time.
