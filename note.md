@@ -695,6 +695,20 @@ objective, n, a.
 
 ---
 
+clear something up, to make something clear or understandable
+
+    I hope this explanation clears up any confusion.
+
+clear something up with someone, to resolve a misunderstanding or disagreement with someone
+
+    I need to clear up this issue with my boss.
+
+clear something with someone, to get permission or approval from someone
+
+    I need to clear this decision with my manager.
+
+---
+
 explicit vs. implicit
 
 ---
