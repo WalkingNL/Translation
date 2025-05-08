@@ -570,9 +570,48 @@ inception vs. inception date
 
 ---
 
-relentless, noun, means oppressively constant; incessant.
+relentless, noun, continuing in a severe or extreme way; relentless, adjective, means oppressively constant; incessant.
+
+synonyms: unyielding; unrelenting; persistent; unremitting; never-ending. 
+ 
 
     the relentless of the new policy is a good news for the employees.
+
+    好的！下面是一些**地道的“relentless”常见搭配**，附上英文例句和中文解释，帮你更灵活地掌握用法：
+
+
+### 🌟 常见搭配短语
+
+| 搭配短语                     | 意思         | 示例句子                                                                                                    |
+| :----------------------- | :--------- | :------------------------------------------------------------------------------------------------------ |
+| **relentless effort**    | 不懈的努力      | "His **relentless effort** finally paid off when he passed the exam." （他坚持不懈的努力终于在考试中得到了回报。）            |
+| **relentless pursuit**   | 不懈的追求      | "She was admired for her **relentless pursuit** of excellence." （她因对卓越的执着追求而受到赞赏。）                      |
+| **relentless heat**      | 持续的高温，酷热难耐 | "The desert was unforgiving under the **relentless heat**." （沙漠在酷热下毫不留情。）                               |
+| **relentless pressure**  | 持续的压力      | "The company is under **relentless pressure** to innovate." （这家公司承受着持续不断的创新压力。）                         |
+| **relentless attacks**   | 不停的攻击      | "The politician faced **relentless attacks** from his opponents." （那位政治家遭遇了对手的连番攻击。）                    |
+| **relentless criticism** | 毫不留情的批评    | "After the scandal, the celebrity suffered **relentless criticism** online." （丑闻爆发后，这位名人在网上受到了铺天盖地的批评。） |
+| **relentless drive**     | 持续的动力/推动力  | "Her **relentless drive** to succeed is truly inspiring." （她不断进取的动力令人真正感到鼓舞。）                           |
+
+---
+
+### 🔥 总结记忆小技巧：
+
+* **正面场景**（努力、追求、动力）
+  ➔ 强调不屈不挠。
+* **负面场景**（热浪、批评、攻击）
+  ➔ 强调无情、持续打击。
+
+---
+| 单词              | 含义           | 示例句子                                                                                   |
+| :-------------- | :----------- | :------------------------------------------------------------------------------------- |
+| **unyielding**  | 毫不屈服的，坚持不懈的  | "She showed **unyielding** determination to finish the project." （她展现出不屈不挠的决心完成这个项目。）  |
+| **ceaseless**   | 不停歇的，连续不断的   | "The **ceaseless** noise of traffic made it hard to sleep." （不断的车流噪音让人难以入睡。）           |
+| **inexorable**  | 不可阻挡的，不可改变的  | "The **inexorable** rise of technology is reshaping our lives." （科技不可阻挡地改变着我们的生活。）     |
+| **persistent**  | 持续的，坚持不懈的    | "His **persistent** efforts finally won him the award." （他坚持不懈的努力最终让他赢得了奖项。）           |
+| **unrelenting** | 毫不松懈的，坚韧不拔的  | "The team's **unrelenting** pressure overwhelmed their opponents." （这支队伍持续不断的压力压垮了对手。） |
+| **continuous**  | 连续不断的        | "The **continuous** rainfall flooded the streets." （连绵不断的降雨淹没了街道。）                     |
+| **merciless**   | 无情的，冷酷的（偏贬义） | "The soldiers faced a **merciless** winter." （士兵们面对着无情的寒冬。）                            |
+
 
 ---
 
@@ -710,6 +749,84 @@ clear something with someone, to get permission or approval from someone
 ---
 
 explicit vs. implicit
+
+---
+
+pretend, imitate, simulate, mimic
+
+pretend, v, to behave as if something is true when it is not true.
+
+    I pretend to be a good person in front of my boss.
+
+imitate, v, to copy or mimic someone or something.
+
+    I imitate the way he speaks.
+
+simulate, v, to imitate the appearance or character of something.
+
+    I simulate the way he speaks.
+
+mimic, v, to imitate someone or something, typically in order to entertain or ridicule.
+
+    I mimic the way he speaks.
+
+---
+
+parallel, a, n, v
+
+    a, adjective, refers to something that is similar or analogous to something else.
+    n, noun, refers to a line or plane that is always the same distance apart.
+    v, verb, refers to something that is similar or analogous to something else.
+
+---
+
+contain vs. include
+
+    contain, means to hold or have within.
+    include, means to have as a part of a whole.
+
+---
+
+adversative
+    adjective, expressing opposition or **antithesis**.
+
+    synonyms: adversative conjunction, adversative particle
+
+    For example: "but" is an adversative conjunction that indicates contrast between two clauses.
+
+antithesis, noun, a person or thing that is the direct opposite of someone or something else.
+
+    synonyms: contrast, opposite, converse, reverse, reversal, inverse, obverse
+
+    For example: "Love is the antithesis of hate."
+
+converse, noun, a situation or statement that is the opposite of another.
+
+    synonyms: contrast, opposite, converse, reverse, reversal, inverse, obverse
+
+    For example: "The converse of the statement 'All birds can fly' is 'Some birds cannot fly.'"
+
+reverse, noun, a situation or statement that is the opposite of another.
+
+    synonyms: contrast, opposite, converse, reverse, reversal, inverse, obverse
+
+    For example: "The reverse of the statement 'All birds can fly' is 'No birds can fly.'"
+
+inverse, noun, a situation or statement that is the opposite of another.
+
+    synonyms: contrast, opposite, converse, reverse, reversal, inverse, obverse
+
+    For example: "The inverse of the statement 'All birds can fly' is 'No birds can fly.'"
+
+obverse, noun, a situation or statement that is the opposite of another.
+
+    synonyms: contrast, opposite, converse, reverse, reversal, inverse, obverse
+
+    For example: "The obverse of the statement 'All birds can fly' is 'No birds can fly.'"
+
+the other extreme
+the other side of the coin
+the flip side
 
 ---
 
