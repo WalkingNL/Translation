@@ -24,6 +24,18 @@ moderate, adjective, means average in amount, intensity, quality, or degree.
 
 ---
 
+prosecute vs. pursue
+
+prosecute, verb, means to institute legal proceedings against a person or organization.
+
+    the company is prosecuted for violating the law.
+
+pursue, verb, means to follow or chase someone or something.
+
+    the company is pursuing a new strategy to increase sales.
+
+---
+
 elevate, 
 
 ---
